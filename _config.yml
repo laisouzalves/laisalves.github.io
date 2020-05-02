@@ -57,7 +57,7 @@ link-col: "#CC5B2B"
 hover-col: "#A14300"
 footer-col: "#8CBF99"
 footer-text-col: "#777777"
-footer-link-col: "#FFFFFF"
+footer-link-col: "#8CBF99"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -78,7 +78,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+#  rss: true
   email: "laisouzalves@gmail.com"
 #  facebook: yourname
   github: laisouzalves
@@ -165,7 +165,7 @@ excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+#title-separator: "-"
 
 # Ruby Date Format
 date_format: "%B %-d, %Y"
@@ -190,7 +190,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
