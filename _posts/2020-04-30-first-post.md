@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who am I?
-image: /img/profile.jpeg
+image: /img/quem_sou_eu21500x1500.jpeg
 ---
 
 I'm Brazilian, a Physics' PhD Student, a passionate traveler and a person who loves to help and be useful wherever I go :D
