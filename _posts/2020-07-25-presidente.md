@@ -2,7 +2,7 @@
 layout: post
 title: O desleixo do brasileiro (Parte 1)
 subtitle: De quem é a culpa?
-image: /img/flag-of-brazil-2560337(1).jpg
+image: /img/20200725_143830.jpg
 ---
 
 "Tem que tremer de medo mesmo!!! Esses canalhas que tratam uma doença 
