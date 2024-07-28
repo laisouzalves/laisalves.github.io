@@ -1,3 +1,6 @@
+Hey! Para acessar meu blog, basta clicar aqui --> https://laisouzalves.github.io/
+*Construído utilizando Beautiful Jekyll.
+
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
